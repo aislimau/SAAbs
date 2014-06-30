@@ -1,0 +1,9 @@
+Name,NumOps,EC_Attr,EC_Par,IC_Par,Assoc,NumDirClients,NumIndClients,NumAnc,NumDesc,Diags
+Data.javaclient2.structures.PlayerConstants,0,0,0,0,0,0,0,0,0,1
+Data.javaclient2.xdr.XdrAble,2,0,0,2,0,0,0,0,0,1
+Data.rt.jar.java.util.Collection,0,0,0,0,0,0,0,0,0,0
+Data.rt.jar.java.util.List,0,0,0,0,0,0,0,0,0,0
+Data.rt.jar.java.util.Set,0,0,0,0,0,0,0,0,0,0
+Data.rt.jar.java.util.Map.Entry,0,0,0,0,0,0,0,0,0,0
+Data.rt.jar.java.util.Map,0,0,0,0,0,0,0,0,0,0
+Data.rt.jar.java.util.Queue,0,0,0,0,0,0,0,0,0,0
